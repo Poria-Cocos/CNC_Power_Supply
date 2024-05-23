@@ -3,7 +3,7 @@
 
 作者：Polarislm  https://github.com/Polarislm
 
-立创平台：Poria Cocos
+立创平台：Poria Cocos  https://oshwhub.com/poria_cocos/2024-zeng-xin-bei-d-ti-shu-kong-dian-yuan
 
 ### 文件说明
 
