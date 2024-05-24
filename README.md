@@ -5,7 +5,7 @@
 
 立创平台：Poria Cocos  https://oshwhub.com/poria_cocos/2024-zeng-xin-bei-d-ti-shu-kong-dian-yuan
 
-![封面](/Shell/Cover.jpg)
+![封面](/image/Cover.jpg)
 
 ### 文件说明
 
@@ -48,15 +48,15 @@
 # 软件程序
 
 * 主程序流程图
-![主程序流程图word内使用.png](//image.lceda.cn/pullimage/eKPaburNxVGEMkBmCAaExkWWXa7tMdPZ0UrIrgwp.png)
+![主程序流程图word内使用.png](/image/主程序流程图word内使用.png)
 * CV部分pid模型
-![pid模型.png](//image.lceda.cn/pullimage/SkzPAcEbUwn3Gw6VtsObMoN7Aos2pEuZyYxqcEZ6.png)
+![pid模型.png](/image/pid模型.png)
 pid计算部分使用MATLAB中的Simulink生成代码。
 
 # 实物展示
 
-![实物展示1.jpg](//image.lceda.cn/pullimage/DVf9UPueiXz3RYaFIIQBM2VJ8bwcTGfOfQ630m0p.jpeg)
-![实物展示2.jpg](//image.lceda.cn/pullimage/lWpQZ0DUkmAsY0aMIPBsaFc52yz6JlzvYLezLFau.jpeg)
+![实物展示1.jpg](/image/实物展示1.jpg)
+![实物展示2.jpg](/image/实物展示2.jpg)
 
 # 改进方向
 
