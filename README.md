@@ -48,17 +48,17 @@
 ## 软件程序
 
 * 主程序流程图
-![主程序流程图word内使用.png](https://github.com/Polarislm/CNC_Power_Supply/tree/main/image/Flow Chart.png)
+![主程序流程图word内使用.png](https://github.com/Polarislm/CNC_Power_Supply/blob/main/image/Flow%20Chart.png)
 
 * CV部分pid模型
-![pid模型.png](https://github.com/Polarislm/CNC_Power_Supply/tree/main/image/pid.png)
+![pid模型.png](https://github.com/Polarislm/CNC_Power_Supply/blob/main/image/pid.png)
 
 pid计算部分使用MATLAB中的Simulink生成代码。
 
 ## 实物展示
 
-![实物展示1.jpg](https://github.com/Polarislm/CNC_Power_Supply/tree/main/image/Display1.jpg)
-![实物展示2.jpg](https://github.com/Polarislm/CNC_Power_Supply/tree/main/image/Display2.jpg)
+![实物展示1.jpg](https://github.com/Polarislm/CNC_Power_Supply/blob/main/image/Display1.jpg)
+![实物展示2.jpg](https://github.com/Polarislm/CNC_Power_Supply/blob/main/image/Display2.jpg)
 
 ## 改进方向
 
