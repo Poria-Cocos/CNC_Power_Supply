@@ -1,7 +1,7 @@
 # CNC_Power_Supply
 ### 华南理工大学“增芯杯”暨2024广东省大学生电子设计竞赛校内赛，D题 数控桌面直流电源，一等奖作品。
 
-作者：Polarislm  https://github.com/Polarislm
+作者：Poria Cocos https://github.com/Poria-Cocos
 
 立创平台：Poria Cocos  https://oshwhub.com/poria_cocos/2024-zeng-xin-bei-d-ti-shu-kong-dian-yuan
 
